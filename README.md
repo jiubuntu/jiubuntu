@@ -4,7 +4,7 @@
 - 🇰🇷 I’m **Jiwoo Kim**
 - 🌱 I’m interested **back-end development**
 - 💻 I’m currently studying **Media-Software at Sungkyul University**
-- 🚀 I enjoy developing with **Node.js**
+- 🚀 I enjoy developing with **Node.js and Spring**
 
 <h2> My Stack </h2>
 
@@ -23,12 +23,15 @@
 <span>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=ffffff" />
 </span> -->
-<span>
+<!-- <span>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=ffffff" />
 </span>
 <span>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=ffffff" />
 </span>
+<span>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=ffffff" />
+</span> -->
 
 <span>
   <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=ffffff" />
