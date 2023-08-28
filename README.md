@@ -14,6 +14,9 @@
 <span>
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=ffffff" />
 </span>
+<span>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=ffffff" />
+</span>
 <!-- <span>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=ffffff" />
 </span>
