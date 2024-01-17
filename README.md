@@ -9,7 +9,7 @@
 <h2> My Stack </h2>
 
 <span>
-  <img src="https://img.shields.io/badge/Swift-#F05138?style=flat&logo=Swift&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=ffffff" />
 </span>
 <span>
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=ffffff" />
