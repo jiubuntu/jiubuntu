@@ -1,9 +1,9 @@
-<h1>Introducing👋</h1>
+<h1>Introducing</h1>
 
 
-- 🇰🇷 I’m **Jiwoo Kim**
+<!-- 🇰🇷 I’m **Jiwoo Kim**
 - 💻 I’m interested **iOS development**
-- 🚀 I enjoy developing with **Swift and Xcode**
+- 🚀 I enjoy developing with **Swift and Xcode** -->
 
 <h2> My Stack </h2>
 
