@@ -11,8 +11,9 @@
 + 📒 I strive to write code optimized for collaboration. </br>
 + 💡 I am a developer who wants to grow steadily. </br>
 + ⭐️ I want to create innovative and user-centric applications </br>
-+ ⚡️ I am learning and applying the latest technologies to create modern and efficient iOS applications. </br>
+<!--+ ⚡️ I am learning and applying the latest technologies to create modern and efficient iOS applications. </br> -->
 
+<!--
 <h2> Stack </h2>
 <span>
   <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=iOS&logoColor=ffffff" />
@@ -46,7 +47,7 @@
 
 
 * Studied Swift's syntax, memory structure, and operation method.
-  
+   -->
 
 
 
