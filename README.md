@@ -5,12 +5,12 @@
 - 💻 I’m interested **iOS development**
 - 🚀 I enjoy developing with **Swift and Xcode** -->
 
-<h2> About me </h2>
+<!--<h2> About me </h2>
 
 
 + 📒 I strive to write code optimized for collaboration. </br>
 + 💡 I am a developer who wants to grow steadily. </br>
-+ ⭐️ I want to create innovative and user-centric applications </br>
++ ⭐️ I want to create innovative and user-centric applications </br> <00>
 <!--+ ⚡️ I am learning and applying the latest technologies to create modern and efficient iOS applications. </br> -->
 
 <!--
