@@ -12,7 +12,9 @@ I’m **Jiwoo Kim**
 + 💡 I am a developer who wants to grow steadily. </br>
 + ⭐️ I want to create innovative and user-centric applications </br> <00>
 <!--+ ⚡️ I am learning and applying the latest technologies to create modern and efficient iOS applications. </br> -->
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 <!--
 <h2> Stack </h2>
