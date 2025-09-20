@@ -1,9 +1,9 @@
 <!--h1>Introducing</h1-->
 
 
-<!-- 🇰🇷 I’m **Jiwoo Kim**
-- 💻 I’m interested **iOS development**
-- 🚀 I enjoy developing with **Swift and Xcode** -->
+I’m **Jiwoo Kim**
+- 💻 I’m interested **Backend Develop**
+- 🚀 I enjoy developing with **Spring & Java** -->
 
 <!--<h2> About me </h2>
 
@@ -13,6 +13,7 @@
 + ⭐️ I want to create innovative and user-centric applications </br> <00>
 <!--+ ⚡️ I am learning and applying the latest technologies to create modern and efficient iOS applications. </br> -->
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 <!--
 <h2> Stack </h2>
 <span>
