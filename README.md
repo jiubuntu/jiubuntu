@@ -3,7 +3,7 @@
 
 I’m **Jiwoo Kim**
 - 💻 I’m interested **Backend Develop**
-- 🚀 I enjoy developing with **Spring & Java** -->
+- 🚀 I enjoy developing with **Spring & Java**
 
 <!--<h2> About me </h2>
 
